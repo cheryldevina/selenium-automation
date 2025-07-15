@@ -23,7 +23,7 @@ It follows the **Page Object Model (POM)** design pattern to ensure code modular
 ---
 
 ## 📂 Project Structure
-selenium-automation/
+<pre>selenium-automation/
 ├── tests/ # Test cases
 ├── pages/ # Page Object Model classes
 ├── data/ # Test data files (JSON, CSV)
@@ -32,4 +32,5 @@ selenium-automation/
 ├── conftest.py # Pytest fixtures
 ├── requirements.txt # Dependencies
 ├── pytest.ini # Pytest config
-└── README.md # This file
+└── README.md # This file</pre>
+
